@@ -1,1 +1,1 @@
-window.feedbackUrl="https://pzbook.haohows.com";
+window.feedbackUrl="https://forms.gle/GRw46LdbzuJNp6AK9";
