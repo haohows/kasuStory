@@ -1,1 +1,0 @@
-window.feedbackUrl="https://forms.gle/GRw46LdbzuJNp6AK9";

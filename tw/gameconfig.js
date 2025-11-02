@@ -1,0 +1,1 @@
+window.gameconfig={feedbackUrl:"https://forms.gle/T19YTY3h7P2i6J8V6",shareUrl:"https://haohows.com/kasuStory/tw",shareText:"走進一座歷史古蹟，不只是回望過去，有時，更可能是進入另一個世界的起點..."};
